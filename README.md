@@ -8,4 +8,4 @@ An investment simulator for real estate investment funds (REITs), featuring mont
 2. *VLOOKUP* (PROCV Portuguese) - it is used to search for a value in the first column of a table and return a corresponding piece of data from another column in the same row.
 
 
-<img width="512" height="746" alt="image" src="https://github.com/user-attachments/assets/4a27307f-dab8-4080-b10b-fbdfb2ef5421" />
+    <img width="512" height="746" alt="image" src="https://github.com/user-attachments/assets/4a27307f-dab8-4080-b10b-fbdfb2ef5421" />
